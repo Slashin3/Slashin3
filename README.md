@@ -33,5 +33,13 @@ Here are some ideas to get you started:
 ![BeautifulSoup](https://img.shields.io/badge/beautiful-soup)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Selenium](https://img.shields.io/badge/-selenium-CB02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)
+![BeautifulSoup4](https://shields.io/badge/BeautifulSoup-4-green)
+![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?style=flat&logo=scrapy&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Database-Mongoose-blue)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DiscordJS](https://img.shields.io/badge/Discord.JS-13.10.2-blue?style=for-the-badge&logo=DISCORD)
+
+
 
 
